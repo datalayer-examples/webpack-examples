@@ -10,14 +10,14 @@ module.exports = {
     ignored: "/node_modules/"
   },
   devServer: {
-    contentBase: path.join(__dirname, "dist"),
+    static: path.join(__dirname, "dist"),
     port: 3001,
     historyApiFallback: true,
   },
   devtool: 'inline-source-map',
   output: {
     publicPath: "http://localhost:3001/",
-    filename: '[name].[contenthash].dlaIam.js',
+    filename: '[name].[contenthash].webpackeExampleTs.js',
   },
   resolve: {
     extensions: [".ts", ".tsx", ".js", ".jsx"],
