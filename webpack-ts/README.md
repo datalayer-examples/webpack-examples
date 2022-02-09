@@ -1,4 +1,4 @@
-[![Datalayer](https://raw.githubusercontent.com/datalayer/datalayer/main/res/logo/datalayer-25.svg?sanitize=true)](https://datalayer.io)
+[![Datalayer](https://assets.datalayer.design/datalayer-25.svg)](https://datalayer.io)
 
 # Webpack Typescript Example
 
